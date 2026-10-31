@@ -20,7 +20,8 @@ O motor de referência utilizado é o **SEW-EURODRIVE DZ71K4** (0,15 kW / 380 V 
 ## Arquivos do Repositório
 
 ```
-├── partida_estrela_triangulo.asm   # Código Assembly principal
+├── trab_keiji_morel.asm            # Código Assembly principal
+├── trabalho_fontenele.pdf          # Relatório do trabalho
 └── README.md                       # Este arquivo
 ```
 
@@ -33,7 +34,7 @@ Acesse [edsim51di.blogspot.com](https://edsim51di.blogspot.com) e abra o EdSim51
 
 ### 2. Carregar o código
 - Na aba **Editor**, apague o conteúdo padrão
-- Cole o conteúdo de `partida_estrela_triangulo.asm`
+- Cole o conteúdo de `trab_keiji_morel.asm`
 - Clique em **Assemble** — deve aparecer `No errors`
 
 ### 3. Configurar as chaves de P2
